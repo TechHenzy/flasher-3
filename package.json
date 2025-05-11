@@ -11,9 +11,9 @@
   "keywords": [
     "email",
     "campaign",
-    "node",
-    "express",
-    "crypto"
+    "crypto",
+    "wallet",
+    "server"
   ],
   "author": "Your Name",
   "license": "ISC",
